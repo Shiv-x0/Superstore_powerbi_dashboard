@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing sales, profit, and returns performance for a retail superstore, with year-over-year trend tracking and segment/geographic breakdowns.
 
-![Dashboard Preview](dashboard_overview.png)
+![Dashboard Preview](dashboard.png)
 
 ## Business Problem
 
